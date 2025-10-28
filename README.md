@@ -78,9 +78,6 @@ Replace placeholder URLs in:
 - Framer Motion
 - React Icons
 
-## 📄 License
-
-Free to use for personal portfolios. Attribution appreciated!
 
 ---
 
