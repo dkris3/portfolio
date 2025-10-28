@@ -84,4 +84,4 @@ Free to use for personal portfolios. Attribution appreciated!
 
 ---
 
-**Built with ❤️ using React & Tailwind CSS**
+
