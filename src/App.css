@@ -1,0 +1,19 @@
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* Additional custom styles if needed */
+.gradient-text {
+  background: linear-gradient(90deg, #111827, #374151, #6b7280);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Smooth transitions */
+* {
+  transition-property: background-color, border-color, color, fill, stroke;
+  transition-duration: 200ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
