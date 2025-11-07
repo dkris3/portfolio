@@ -13,9 +13,9 @@ export const personalInfo = {
 
 // About Me
 export const aboutMe = [
-  "I'm Dean Kristoffer Tayabas, an Associate Software Engineer with hands-on experience in full-stack development, database management, and building user-friendly software solutions. I specialize in using modern technologies like React, Vite, TypeScript, Tailwind CSS, PHP, MySQL, and Supabase to create efficient and innovative systems.",
-  "My journey in software development has been driven by a passion for continuous learning and staying updated with emerging technologies. I believe in the power of collaboration and knowledge sharing, which helps teams achieve remarkable results together.",
-  "Through my work at Accenture and my previous experience as a Web Developer OJT at PhilSCA, I've gained valuable insights into creating scalable solutions, improving user experiences, and delivering impactful results that drive success and innovation.",
+  "I'm Dean Kristoffer L. Tayabas, a web developer with practical experience in building modern web applications. I specialize in crafting responsive, user-friendly interfaces and ensuring seamless functionality across platforms.",
+  "I've worked on three key projects: a Capstone, an OJT project, and a TESDA prototype. These involved technologies ranging from HTML, CSS, JavaScript, PHP, and MySQL to more advanced tools like Vite, TypeScript, React, Tailwind CSS, and Supabase.",
+  "I thrive in collaborative environments, value continuous learning, and enjoy sharing knowledge to help others grow while refining my own skills. I'm always open to new challenges that expand my expertise in web development.",
 ];
 
 // Experience
