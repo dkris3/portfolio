@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-A modern, minimalist personal portfolio website built with React, Vite, Tailwind CSS, and Framer Motion.
+A modern, minimalist personal portfolio website built with React, Vite, Tailwind CSS, JavaScript and Framer Motion.
 
 ## 🚀 Features
 
