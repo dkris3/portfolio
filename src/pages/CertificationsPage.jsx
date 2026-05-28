@@ -5,6 +5,22 @@ import { FaArrowLeft } from 'react-icons/fa';
 const CertificationsPage = () => {
   const certifications = [
     {
+      name: 'Reinvention with Agentic AI',
+      issuer: 'Accenture',
+      year: '2025',
+      credentialId: '',
+      credentialUrl: 'https://www.credly.com/badges/1fc39de5-6984-4356-a679-eea07a1ed8e4/linked_in_profile',
+      description: 'Earners of this badge have demonstrated both understanding and practical expertise in applying agentic AI to real-world challenges. Through a structured learning journey that blends foundational knowledge, hands-on workshops, and insights from global experts, Badge holders are equipped to drive reinvention within Accenture and beyond.',
+    },
+    { 
+      name: 'Programming (Java) NC III',
+      issuer: 'TESDA',
+      year: '2025',
+      credentialId: '',
+      credentialUrl: 'https://www.linkedin.com/in/dean-kristoffer-tayabas-9751b0290/overlay/Certifications/568075530/treasury/?profileId=ACoAAEaCDGkBCN8Ekw2gyxpwZE_fdefK0DKLkpA',
+      description: 'Java Programming develops skills in workplace communication, teamwork, problem-solving, quality standards, computer operations, and object-oriented analysis and application development using Java technology',
+    },
+    {
       name: 'AWS Cloud Quest: Cloud Practitioner',
       issuer: 'Amazon Web Services (AWS)',
       year: '2025',
